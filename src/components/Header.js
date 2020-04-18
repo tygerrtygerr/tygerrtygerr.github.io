@@ -9,6 +9,7 @@ class Header extends React.Component {
         <ul id="headerButtons">
           <li className="homeButton"><Link to="">Home</Link></li>
           <li className="aboutButton"><Link to="">About</Link></li>
+          <li className="projectsButton"><Link to="">Projects</Link></li>
         </ul>
       </header>
     )

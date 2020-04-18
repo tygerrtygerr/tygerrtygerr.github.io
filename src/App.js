@@ -10,6 +10,8 @@ import './App.css';
 import HomePage from './components/HomePage';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import Projects from './components/Projects';
+import AboutMe from './components/AboutMe';
 
 function App() {
     return(
@@ -18,6 +20,8 @@ function App() {
           <Header />
           <Route name="home" exact path="/" component={HomePage} />
           <Route name="footer" exact path="/" component={Footer} />
+          <Route name="projects" exact path="/" component={Projects} />
+          <Route name="aboutMe" exact path="/" component={AboutMe} />
         </div>
       </Router>
     )
