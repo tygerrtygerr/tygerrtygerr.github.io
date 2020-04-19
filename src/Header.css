@@ -1,21 +1,17 @@
-header {
-    display: block;
-    background-color: grey;
-    width: 100%;
-    height: 50px;
-    color: white;
+
+.navBar {
+    background-color: rgb(185, 185, 185);
+    background-blend-mode: lighten;
 }
 
-#headerButtons {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+.navContent {
+    font-family: Cambria;
+    font-size: small;
+    display: inline;  
 }
 
-.homeButton {
-    float: left;
-  }
-
-.aboutButton {
-    float: left;
+.NavLink {
+    padding-left: 30%;
+    padding-right: 30%;
+    display: inline;
 }

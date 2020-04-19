@@ -1,17 +1,20 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
+import { Button, Navbar, Nav, NavLink } from 'react-bootstrap';
 
-
+const navigation = (
+  <Navbar className="navBar" brand='React-Bootstrap'>
+  <Nav className="navContent">
+    <NavLink to='/'>Home</NavLink>
+    <NavLink to='/AboutMe'>About</NavLink>
+    <NavLink to='/Projects'>Projects</NavLink>
+  </Nav>
+</Navbar>
+)
 class Header extends React.Component {
   render() {
     return (
-      <header>
-        <ul id="headerButtons">
-          <li className="homeButton"><Link to="">Home</Link></li>
-          <li className="aboutButton"><Link to="">About</Link></li>
-          <li className="projectsButton"><Link to="">Projects</Link></li>
-        </ul>
-      </header>
+      navigation
     )
   }
 }
