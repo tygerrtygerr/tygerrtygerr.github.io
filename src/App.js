@@ -18,12 +18,15 @@ function App() {
       <Router>
         <div>
           <Header />
+          <Footer />
+          
           <Switch>
             <Route name="home" exact path="/" component={HomePage} />
             <Route name="footer" exact path="/" component={Footer} />
             <Route name="projects" exact path="/Projects" component={Projects} />
             <Route name="aboutMe" exact path="/AboutMe" component={AboutMe} />
           </Switch>
+          
         </div>
       </Router>
     )
