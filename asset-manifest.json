@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tygerrtygerr.github.io/static/css/main.f4976fff.chunk.css",
+    "main.js": "/tygerrtygerr.github.io/static/js/main.eab4876e.chunk.js",
+    "main.js.map": "/tygerrtygerr.github.io/static/js/main.eab4876e.chunk.js.map",
+    "runtime-main.js": "/tygerrtygerr.github.io/static/js/runtime-main.119aabbf.js",
+    "runtime-main.js.map": "/tygerrtygerr.github.io/static/js/runtime-main.119aabbf.js.map",
+    "static/js/2.f9116045.chunk.js": "/tygerrtygerr.github.io/static/js/2.f9116045.chunk.js",
+    "static/js/2.f9116045.chunk.js.map": "/tygerrtygerr.github.io/static/js/2.f9116045.chunk.js.map",
+    "index.html": "/tygerrtygerr.github.io/index.html",
+    "precache-manifest.fd7d5d92d93e9b18632dffa33b470d57.js": "/tygerrtygerr.github.io/precache-manifest.fd7d5d92d93e9b18632dffa33b470d57.js",
+    "service-worker.js": "/tygerrtygerr.github.io/service-worker.js",
+    "static/css/main.f4976fff.chunk.css.map": "/tygerrtygerr.github.io/static/css/main.f4976fff.chunk.css.map",
+    "static/js/2.f9116045.chunk.js.LICENSE.txt": "/tygerrtygerr.github.io/static/js/2.f9116045.chunk.js.LICENSE.txt",
+    "static/media/lillian.jpg": "/tygerrtygerr.github.io/static/media/lillian.8c037dd6.jpg",
+    "static/media/me.jpg": "/tygerrtygerr.github.io/static/media/me.789314a3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.119aabbf.js",
+    "static/js/2.f9116045.chunk.js",
+    "static/css/main.f4976fff.chunk.css",
+    "static/js/main.eab4876e.chunk.js"
+  ]
+}
